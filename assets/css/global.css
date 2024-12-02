@@ -3,6 +3,11 @@ body {
     font-family: "Lato", sans-serif;
     font-weight: 400;
     padding-top: 5.0rem;
+
+}
+
+.bg-light {
+    background-color: #CEB3D3 !important; /* 修改为浅蓝色 */
 }
 
 h1, h2, h3, h4, h5, h6,
