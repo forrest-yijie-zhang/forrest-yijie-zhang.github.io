@@ -7,8 +7,12 @@
     {% for item in publications limit:include.limit %}
         {% include widgets/publication_item.html item=item first=false last=false %}    
     {% endfor %}
-    <h6 class="d-block p-3 mt-0 text-right">
+    <!-- 上面的框，左对齐 -->
+    <div class="d-block py-0.5 px-3">
+        <span style="font-size: 0.9em; color: #6c757d;"> <i>* denotes equal contribution</i></span>
+    </div>
+    <!-- 下面的框，右对齐 -->
+    <div class="d-block py-1 px-3 text-right">
         <a href="{{ 'publications' | relative_url }}">All publications <i class="fas fa-angle-double-right"></i></a>
-    </h6>
+    </div>
 </div>
-
