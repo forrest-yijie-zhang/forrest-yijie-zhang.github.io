@@ -1,0 +1,16 @@
+<div class="my-3 bg-white shadow-sm rounded-sm">
+    <h6 class="p-3 mb-0 border-bottom border-gray">Academic Services</h6>
+    <div class="px-3 pb-3">
+        {% for item in site.ac_services %}
+        <div class="media py-1 {% unless forloop.first %}border-top border-gray{% endunless %}">
+            <div class="media-body">
+                <!-- Combine title and content on the same line, with semicolon separation -->
+                <div class="my-1">
+                    <span class="font-weight-bold">{{ item.title }}:</span> 
+                    {{ item.content | markdownify | remove: '<p>' | remove: '</p>' | strip_html | replace: ',', '; ' }}
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
