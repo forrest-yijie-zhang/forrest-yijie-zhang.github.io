@@ -1,7 +1,7 @@
 ---
 title:          "Does Hierarchical Reinforcement Learning Outperform Standard Reinforcement Learning in Goal-Oriented Environments?"
 date:           2023-11-05 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "NeurIPS 2023 Workshop on Goal-Conditioned Reinforcement Learning"
 pub_date:       "2023"
 abstract: >-
