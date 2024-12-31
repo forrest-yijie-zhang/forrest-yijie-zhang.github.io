@@ -18,7 +18,7 @@ authors:
   - Hanqun Cao
   - Siyuan Li
   - Siqi Ma 
-  - Mathieu Blanchette
+  - Mathieu Blanchette#
   - Stan Z Li#
 links:
   Code: https://github.com/A4Bio/R3Design
