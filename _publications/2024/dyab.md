@@ -5,7 +5,7 @@ selected:       true
 pub:            "The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral Presentation</span>'
 pub_date:       "2025"
 
 abstract: >-
