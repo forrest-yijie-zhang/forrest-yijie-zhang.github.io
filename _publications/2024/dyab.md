@@ -19,7 +19,7 @@ authors:
   - Haitao Lin
   - Lirong Wu 
   - Fandi Wu
-  - Mathieu Blanchette
+  - Mathieu Blanchette#
   - Stan Z Li#
 links:
   # Code: https://github.com/A4Bio/RDesign
