@@ -12,8 +12,8 @@ abstract: >-
   R3Design is a tertiary structure-based RNA sequence design method that prioritizes tertiary interactions, significantly outperforming traditional secondary structure-based approaches. By enabling the design, folding, and evaluation of RNA sequences that fold into desired tertiary structures.
 cover:          /assets/images/covers/r3design.png
 authors:
-  - Cheng Tan*
   - <b>Yijie Zhang*</b>
+  - Cheng Tan*
   - Zhangyang Gao*
   - Hanqun Cao
   - Siyuan Li

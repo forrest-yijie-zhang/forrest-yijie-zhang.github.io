@@ -12,8 +12,8 @@ abstract: >-
  We introduce dyAb, a framework leveraging AlphaFold2-driven predictions and combining coarse-grained interface alignment with fine-grained flow matching to simulate dynamic interactions, significantly outperforming existing models and streamlining antibody design.
 cover:          /assets/images/covers/dyAb.png
 authors:
-  - Cheng Tan*
   - <b>Yijie Zhang*</b>
+  - Cheng Tan*
   - Zhangyang Gao*
   -  Yufei Huang
   - Haitao Lin
