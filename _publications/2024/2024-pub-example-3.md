@@ -12,8 +12,8 @@ abstract: >-
   We proposed an RNA sequence design approach from the tertiary structure.
 cover:          /assets/images/covers/rdesign.png
 authors:
-  - <b>Yijie Zhang*</b>
   - Cheng Tan*
+  - <b>Yijie Zhang*</b>
   - Zhangyang Gao
   - Stan Z Li
 links:
